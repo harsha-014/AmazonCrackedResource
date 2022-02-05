@@ -38,7 +38,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  |  |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | done  | easy |
 
 
 ---
@@ -49,10 +49,10 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  | done |medium  |
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  |  |  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
-| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
+| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |done  |medium  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
