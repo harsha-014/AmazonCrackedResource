@@ -30,7 +30,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  |  |
-| [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
+| [Partition Labels](https://leetcode.com/problems/partition-labels/) |done   |easy  |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | done |easy  |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
@@ -48,13 +48,13 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
+| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) | done |medium  |
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  | done |medium  |
-| [Most Common Word](https://leetcode.com/problems/most-common-word/)  |  |  |
+| [Most Common Word](https://leetcode.com/problems/most-common-word/)  | done |easy  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |done  |medium  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
-| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
+| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  | done |medium  |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
 |  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
 | [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
@@ -67,15 +67,15 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  |  |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  |  |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | done |medium  |
 | [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |  |  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
 | [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
 | [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
 | [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  |  |
 | [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
-| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
-| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |  |
+| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  | done |medium  |
+| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |done  |easy  |
 
 ---
 <br>
@@ -91,7 +91,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  |  |  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) |  |  |
 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
-| [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
+| [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |done  |medium  |
 | [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |  |  |
 | [Sell Diminishing-Valued Colored Balls]( https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) |  |  |
 
@@ -102,7 +102,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) | done |medium  |
 | [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) |  |  |
 | [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |  |  |
