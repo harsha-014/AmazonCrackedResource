@@ -37,7 +37,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
-| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  |  |
+| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  | done  |easy  |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | done  | easy |
 
 
@@ -86,14 +86,14 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ |
 | [Robot Bounded In Circle]( https://leetcode.com/problems/robot-bounded-in-circle/) |  |  |
 | [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |  |  |
-| [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) |  |  |
+| [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | done |easy  |
 | [Search Suggestions System]( https://leetcode.com/problems/search-suggestions-system/) |  |  |
-| [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  |  |  |
+| [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  | done  |easy  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) |  |  |
 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |done  |medium  |
 | [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |  |  |
-| [Sell Diminishing-Valued Colored Balls]( https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) |  |  |
+| [Sell Diminishing-Valued Colored Balls]( https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | done  |easy  |
 
 ---
 <br>
@@ -103,7 +103,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) | done |medium  |
-| [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) |  |  |
+| [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) | done  | easy |
 | [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |  |  |
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) |  |  |
